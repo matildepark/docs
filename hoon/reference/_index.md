@@ -36,15 +36,15 @@ The full story on Hoon's type system.
 
 A list of aura types for atoms.
 
-### [Runes](/docs/hoon/reference/rune/_index)
+### [Runes](/docs/hoon/reference/rune/)
 
 Syntax and semantics for Hoon's rune system.
 
-### [Limbs and Wings](/docs/hoon/reference/limbs/_index)
+### [Limbs and Wings](/docs/hoon/reference/limbs/)
 
 How to find data inside Hoon subjects.
 
-### [Standard Library](/docs/hoon/reference/stdlib/_index)
+### [Standard Library](/docs/hoon/reference/stdlib/)
 
 Reference material for the Hoon standard library.
 

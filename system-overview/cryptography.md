@@ -104,12 +104,12 @@ are utilized by Ames. All cryptographic primitives are
 [jetted](/docs/vere/jetting) in Vere with standard vetted implementations of
 cryptographic libraries.
 
-[Vere](/docs/vere/_index) is Urbit's Nock runtime system, written in C. All
+[Vere](/docs/vere/) is Urbit's Nock runtime system, written in C. All
 cryptographic functions implemented in Hoon are hinted to the interpreter,
 causing it to utilize the [jet system](/docs/vere/jetting) to run standard vetted cryptographic
 libraries.
 
-[Azimuth](/docs/azimuth/_index) is an Ethereum-based public key
+[Azimuth](/docs/azimuth/) is an Ethereum-based public key
 infrastructure utilized by Urbit. `azimuth-tracker` obtains networking public
 keys for planets, stars, and galaxies from this store, which are then stored in
 Jael and utilized by Ames for end-to-end encrypted communication.

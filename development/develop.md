@@ -69,7 +69,7 @@ architecture](/docs/userspace/landscape/overview) is a good reference implementa
 to see how this pattern works in practice.
 
 If you want to learn how to build gall agents, your best bet is to first [learn
-the Hoon programming language](/docs/hoon/hoon-school/_index), and then follow that
+the Hoon programming language](/docs/hoon/hoon-school/), and then follow that
 up with the [Gall guide](/docs/userspace/gall/tutorial).
 
 ### Contribute to Urbit Core {#core}

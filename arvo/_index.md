@@ -10,7 +10,7 @@ Resources about the Urbit OS.
 
 ## [Overview](/docs/arvo/overview)
 
-Arvo is Urbit's functional operating system, written in [Hoon](/docs/hoon/hoon-school/_index). It's composed of modules called _vanes_, each of which has its own folder:
+Arvo is Urbit's functional operating system, written in [Hoon](/docs/hoon/hoon-school/). It's composed of modules called _vanes_, each of which has its own folder:
 
 ## [Ames](/docs/arvo/ames/ames)
 
@@ -44,11 +44,11 @@ Gall is the vane for controlling userspace apps.
 
 Iris is our HTTP client.
 
-## [Concepts](/docs/arvo/concepts/_index)
+## [Concepts](/docs/arvo/concepts/)
 
 Explanations of design decisions that are pervasive throughout Arvo.
 
-## [Tutorials](/docs/arvo/tutorials/_index)
+## [Tutorials](/docs/arvo/tutorials/)
 
 Walkthroughs that teach you more about how Arvo works.
 

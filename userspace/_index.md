@@ -16,15 +16,15 @@ An overview of userspace in Urbit.
 
 Resources on Gall which manages userspace applications.
 
-## [Landscape](/docs/userspace/landscape/_index)
+## [Landscape](/docs/userspace/landscape/)
 
 Resources on the flagship web client Landcape, through which most users interact with their ship.
 
-## [Threads](/docs/userspace/threads/_index)
+## [Threads](/docs/userspace/threads/)
 
 Resources on threads - monadic functions useful for complex IO.
 
-## [Graph Store](/docs/userspace/graph-store/_index)
+## [Graph Store](/docs/userspace/graph-store/)
 
 Resources on Graph Store, a non-relational database specialized for social media applications.
 
